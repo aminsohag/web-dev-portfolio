@@ -136,6 +136,14 @@ main section{
     display: flex;
     gap: 24px;
 }
+.resume-column-title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.experience-title{
+    font-size: 25px;
+    font-weight: bold;
+}
 .experience-sub-title{
     font-size: 20px;
     font-weight: 600px;
